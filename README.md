@@ -12,7 +12,7 @@
 - sudo apt install curl
 - curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 - reopen a new ssh session (eg restart putty)
-- nvm install 18
+- nvm install 16
 - npm i -g yarn
 - cd /var/www/pterodactyl
 - yarn
