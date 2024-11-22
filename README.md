@@ -5,6 +5,8 @@
 > [!NOTE]
 > This is a nulled version of wemx billing For this addon you must use pterodactyl 1.11.x
 
+- The File 100% Safe [Click Here](https://www.virustotal.com/gui/file/8c38a03e1b3481874a764b58efd5d9271c5a874498e3c2b4e9c6c724e813925c/detection)
+
 ## Install Guide
 
 - sudo apt install curl
